@@ -1,0 +1,20 @@
+{
+    "name": "multiply",
+    "description": "Wrapper for Multiply.com's API",
+    "version": "0.0.1",
+    "private": "true",
+    "main": "index.js",
+    "dependencies": {
+	"oauth": "0.9.8",
+	"prompt": "0.2.7", 
+    },
+    "author": {
+	"name": "Jeff Strinko",
+	"email": "jstrinko@gmail.com",
+	"url": "http://github.com/jstrinko"
+    },
+    "repository": {
+	"type": "git",
+	"url": "git://github.com/jstrinko/multiply.git"
+    }
+}
