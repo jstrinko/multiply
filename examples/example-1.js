@@ -10,9 +10,9 @@ Prompt.message = '';
 Prompt.delimiter = ''; 
 
 var mp = new Multiply({ 
-    consumer_key: 'WOC1CyWKJhMkz7nsFFn14Q', 
-    consumer_secret: 'Lryxwxq9A9xdq4T+WQIz5A',
-    developer_key: 'dw65F7O'
+    consumer_key: '[your key]', 
+    consumer_secret: '[your secret]',
+    developer_key: '[your developer key]'
 });
 
 mp.authorization_url(function(success, data) {
